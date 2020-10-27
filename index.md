@@ -2,7 +2,6 @@
 Pascal → Fortran → Delphi → C++ → C#, TSQL → PHP, MySQL → Dart, Flutter → ...
 
 # Contacts
-
 GitHub: [filonov](https://github.com/filonov)
 
 Mail: [denis@filonov.pro](mailto:denis@filonov.pro)
@@ -13,4 +12,4 @@ Blog: [filonov.org](https://filonov.org)
 
 # Projects
 
-[Kachculator](https://filonov.pro/kachculator/)
+- [Kachculator](https://filonov.pro/kachculator/) – opensource calculator for fitness, bodybuilding and powerlifting.
